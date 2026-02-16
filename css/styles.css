@@ -1,23 +1,58 @@
 h1{
+    font-size: xx-large;
+    display: inline-block;
+    padding: 10px 20px;
     text-align: center;
+    background-color: black;
+    color: greenyellow;
 }
 
 h2{
+    display: inline-block;
+    padding: 10px 20px;
     text-align: center;
     font-size: large;
+    background-color: black;
+    color: greenyellow;
+    font-size: x-large;
 }
 
 input{
     display: block;
     margin: auto;
+    background-color: black;
+    color: greenyellow;
+    font-size: large;
 }
 
 button{
     display: block;
     margin: auto;
+    background-color: black;
+    color: greenyellow;
+    font-size: large;
 }
 
 #main{
+    font-size: x-large;
+    display: inline-block;
+    padding: 10px 20px;
     text-align: center;
+    background-color: black;
+    color: greenyellow;
+    border: 2vw;
+}
+
+body{
+    text-align: center;
+    background-image: url('../img/bgImg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#feedback{
+    background-color: black;
 }
 
