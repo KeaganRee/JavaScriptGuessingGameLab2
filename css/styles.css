@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: large;
+}
+
+input{
+    display: block;
+    margin: auto;
+}
+
+button{
+    display: block;
+    margin: auto;
+}
+
+#main{
+    text-align: center;
+}
+
